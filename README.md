@@ -2,10 +2,10 @@
 
 Adaptive symbolic regression for coupled multiphysics systems.
 
-## Reproduction interface
+## Running Experiments
 
 ```bash
-python run_paper_reproduction.py
+python experiments.py
 ```
 
 The launcher records run metadata in `reproduction_runs/run_context.json`.
