@@ -2,14 +2,6 @@
 
 Adaptive symbolic regression for coupled multiphysics systems.
 
-## Running Experiments
-
-```bash
-python experiments.py
-```
-
-The launcher records run metadata in `reproduction_runs/run_context.json`.
-The paper method is implemented in `adaptive_decoupling_engine.py`.
 
 ## Run
 
