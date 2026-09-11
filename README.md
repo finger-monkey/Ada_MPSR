@@ -1,6 +1,5 @@
 # AdaMPSR
 
-Adaptive symbolic regression for coupled multiphysics systems.
 
 
 ## Run
